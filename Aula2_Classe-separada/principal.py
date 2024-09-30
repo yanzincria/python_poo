@@ -14,3 +14,4 @@ endPessoa =input("Informe o endereço da pessoa: ")
 
 p2 = Pessoa(nomePessoa, hobbyPessoa, endPessoa)
 p2.exibirHobby()
+
